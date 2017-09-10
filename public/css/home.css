@@ -1,0 +1,30 @@
+.marry {
+    position: absolute;
+    left: 20%;
+    top: 13%;
+    height: 80%;
+
+}
+
+.marry_font {
+
+    font-size: 100;
+    color: red;
+    text-align: center;
+}
+
+@media screen and (max-width: 1280px) {
+    .marry {
+        position: absolute;
+        left: 0%;
+        top: 13%;
+        height: 50%;
+
+    }
+
+    .marry_font {
+        font-size: 100;
+        color: red;
+        text-align: center;
+    }
+}
